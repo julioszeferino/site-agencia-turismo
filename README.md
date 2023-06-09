@@ -11,5 +11,5 @@ Projeto desenvolvido como trabalho final da disciplina "Practioner Fron-End" na 
 
 ## Histórico de Atualizações
 0.1.1
-- Static font-end concluded.
+- Static front-end finished.
 
